@@ -7,7 +7,7 @@ const Planets = () => {
                 <p className='m-0'>featured</p>
                 <h5>adventures</h5>
             </div>
-            <div className="planet-cards d-flex justify-content-lg-evenly overflow-x-scroll">
+            <div className="planet-cards d-flex justify-content-lg-evenly overflow-scroll">
                 <div className="card moon">
                     <img src="/moon.jpg" alt="" />
                     <div className="card-body moon">
