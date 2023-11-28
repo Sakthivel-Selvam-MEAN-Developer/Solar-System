@@ -1,7 +1,6 @@
 .moon img.moon-rotate{
     width: 180px;
     animation: rotate 3s linear infinite;
-    margin-right: 30px;
 }
 .moon .title h5 a{
     color: wheat;
@@ -17,6 +16,7 @@
 }
 .moon.planet .moon-details{
     color: white;
+    margin-left: 50px;
 }
 .moon.planet{
     background-color: #87878abf;
@@ -41,5 +41,9 @@
         flex-wrap: wrap;
         justify-content: center;
         margin: 20px 10px !important;
+    }
+    .moon .moon-details{
+        margin-top: 50px;
+        margin-left: 0;
     }
 }
