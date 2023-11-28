@@ -5,7 +5,7 @@ const Moon = () => {
 
     return (
         <div className="moon planet">
-            <img src="/moon-rotate.svg" alt="moon" className='moon-rotate' />
+            <img src="./moon-rotate.svg" alt="moon" className='moon-rotate' />
             <div className="moon-details ">
                 <div className="title">
                     <h5>
