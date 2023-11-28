@@ -1,0 +1,45 @@
+.moon img.moon-rotate{
+    width: 180px;
+    animation: rotate 3s linear infinite;
+    margin-right: 30px;
+}
+.moon .title h5 a{
+    color: wheat;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: all-petite-caps;
+    font-size: 2em;
+    font-family: 'Honor';
+    letter-spacing: 2px;
+}
+.moon .title h5 a:hover{
+    text-decoration: underline;
+}
+.moon.planet .moon-details{
+    color: white;
+}
+.moon.planet{
+    background-color: #87878abf;
+    border-radius: 10px;
+    padding: 20px 30px;
+    margin: 20px 75px;
+    display: flex;
+    align-items: center;
+}
+
+@keyframes rotate {
+    0%{
+        transform: rotateZ(0deg);
+    }
+    100%{
+        transform: rotateZ(360deg);
+    }
+}
+
+@media (max-width:772px) {
+    .moon.planet{
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 20px 10px !important;
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "planetOrder": 4,
+    "name": "Mars",
+    "description": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. In English, Mars carries the name of the Roman god of war and is often called the \\\"Red Planet\\\".\"",
+    "basicDetails": {
+        "volume": "1.63118 x 10^11 km^3",
+        "mass": "6.4171 x 10^23 kg"
+    },
+    "source": "Wikipedia",
+    "wikiLink": "https://en.wikipedia.org/wiki/Mars",
+    "imgSrc": {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg",
+        "imgDescription": "Pictured in natural color in 2007"
+    },
+    "id": 4
+}

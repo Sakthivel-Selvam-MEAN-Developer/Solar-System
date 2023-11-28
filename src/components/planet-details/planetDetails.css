@@ -1,0 +1,45 @@
+.planet-details .navbar ul.navbar-nav > *{
+    flex: 1;
+}
+.planet-details .navbar ul.navbar-nav{
+    width: 100%;
+}
+.planet-details .navbar {
+    margin: 30px 65px;
+}
+.planet-details .navbar ul.navbar-nav li span{
+    font-variant: all-petite-caps;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: white;
+}
+.planet-details .navbar ul.navbar-nav li{
+    background-color: #b76a48;
+    margin: 0 10px; 
+    border-radius: 10px;
+}
+.planet-details .navbar ul.navbar-nav li:hover{
+    background-color: rgb(210, 135, 103);
+}
+.planet-details .planet-title{
+    margin-top: 50px;
+    padding-top: 40px;
+    text-align: center;
+    color: wheat;
+    font-variant: all-petite-caps;
+    line-height: 0px;
+}
+.planet-details .planet-title h5{
+    font-family: math;
+    font-size: 2em;
+    letter-spacing: 2px;
+}
+.planet-details .planet-title p{
+    letter-spacing: 2px;
+    font-size: 13px;
+}
+@media (max-width:772px) {
+    .planet-details .navbar{
+        margin: 30px 10px;
+    }
+}

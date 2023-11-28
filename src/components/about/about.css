@@ -1,0 +1,33 @@
+.about{
+    margin-top: 80px ;
+    padding: 30px 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.about .about-title{
+    color: wheat;
+    line-height: 0;
+    text-align: center;
+}
+.about .about-title p{
+    font-size: 13px;
+    font-variant: all-petite-caps;
+    letter-spacing: 3px;
+}
+.about .about-title h5{
+    font-variant: all-petite-caps;
+    font-size: 2em;
+    font-family: math;
+    letter-spacing: 2px;
+}
+.about .about-body{
+    max-width: 700px;
+    color: white;
+    padding: 30px 20px;
+}
+.about .about-body p:nth-child(2){
+    text-align: end;
+}

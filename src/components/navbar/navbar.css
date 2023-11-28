@@ -1,0 +1,11 @@
+.navbar ul li a{
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.81) !important;
+    font-variant: all-petite-caps;
+}
+.navbar{
+    background-color: rgba(0, 0, 0, 0.25);
+}
+.navbar .active{
+    color: white !important;
+} 

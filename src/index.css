@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Honor';
+  src: local('Honor'), url('/fonts/Honor.woff') format('opentype');
+}
+
+
+:root {
+  font-family: 'Honor';
+  line-height: 1.5;
+  font-weight: 400;
+  scroll-behavior: smooth;
+}
+
+#root{
+  background-color: black;
+}
+html::-webkit-scrollbar{
+  width: 0;
+  height: 0;
+}

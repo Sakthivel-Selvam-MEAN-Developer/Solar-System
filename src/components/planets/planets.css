@@ -1,0 +1,79 @@
+.planets{
+    padding-top: 50px;
+}
+.planets .card{
+    min-width: 16rem;
+    width: 18rem;
+    position: relative;
+    padding: 90px 0 0 0;
+    background-position: top;
+    background-size: cover;
+    min-height: 360px;
+    border: none;
+    margin: 0 10px;
+}
+.planets .card img{
+    position: absolute;
+    width: 110px;
+    border-radius: 100px;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.planets .card.mars{
+    background-image: linear-gradient(0deg, transparent, rgba(0, 0, 0, 0.533)), url('/Rover-exploring-the-mars-surface.png');
+}
+.planets .card.moon{
+    background-image: linear-gradient(0deg, transparent, rgba(0, 0, 0, 0.533)), url('/moon-bg.jpg');
+}
+.planets .card.earth{
+    background-image: linear-gradient(0deg, transparent, rgba(0, 0, 0, 0.533)), url('/earth-bg.jpg');
+}
+.planets .card-body{
+    color: white;
+    margin-top: -28px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+.planet-cards{
+    padding-top: 100px;
+}
+.planets .card-body h5{
+    font-family: 'Honor';
+    font-size: 2.5em;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.planets .card-body p,
+.planets .card-body h5{
+    font-variant: all-petite-caps;
+}
+
+.planets .card-body p{
+    letter-spacing: 3px;
+}
+.planets .planets-title{
+    text-align: center;
+    color: wheat;
+    font-variant: all-petite-caps;
+    line-height: 0px;
+}
+.planets .planets-title h5{
+    font-family: math;
+    font-size: 2em;
+    letter-spacing: 2px;
+}
+.planets .planets-title p{
+    letter-spacing: 2px;
+    font-size: 13px;
+}
+
+.planet-cards::-webkit-scrollbar{
+    width: 0;
+    height: 0;
+}

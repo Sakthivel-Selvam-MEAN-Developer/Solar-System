@@ -1,0 +1,12 @@
+.navbar{
+    background-color: transparent !important;
+}
+.footer{
+    padding: 20px 0;
+    background-color: rgb(48, 48, 48);
+}
+.footer .btn{
+    padding: 8px 10px 10px ;
+    background-color: rgba(141, 141, 141, 0.538);
+    border: none;
+}

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100px"
+   height="16px"
+   viewBox="0 0 100 16"
+   id="SVGRoot"
+   version="1.1"
+   enable-background="new"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4787">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="patternClipPath">
+      <rect
+         y="0"
+         x="0"
+         height="16"
+         width="100"
+         id="clipPathRect"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.09889996;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </clipPath>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path19572"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="45.254832"
+     inkscape:cx="46.337593"
+     inkscape:cy="16.384991"
+     inkscape:document-units="px"
+     inkscape:current-layer="g6"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1164"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:blackoutopacity="0.0"
+     showborder="true"
+     inkscape:showpageshadow="true"
+     borderlayer="false"
+     inkscape:deskcolor="#d1d1d1" />
+  <inkscape:_templateinfo
+     id="_templateinfo10">
+    <inkscape:_name
+       id="_name12">Seamless Pattern</inkscape:_name>
+    <inkscape:_shortdesc
+       id="_shortdesc14">Seamless Pattern</inkscape:_shortdesc>
+    <inkscape:_keywords
+       id="_keywords16">Seamless Pattern</inkscape:_keywords>
+  </inkscape:_templateinfo>
+  <g
+     id="g6"
+     transform="matrix(1.0018917,0,0,1.0087367,-25.877401,-55.388891)"
+     style="stroke-width:3.75957;stroke:#ffffff;stroke-opacity:0.60000002;fill:#f5deb3;fill-opacity:1">
+    <path
+       d="m 43.823047,62.168446 v 8.602143 H 25.82854 V 54.966128 l 20.210798,-0.05696 -1.126828,2.352677 -14.274898,0.02979 v 11.153434 h 8.466675 V 62.16844 Z"
+       id="text1"
+       style="font-size:22.5778px;line-height:79.57%;font-family:'ROG Fonts';-inkscape-font-specification:'ROG Fonts';text-align:end;letter-spacing:0px;direction:rtl;text-anchor:end;fill:#f5deb3;fill-opacity:1;stroke:#4b0000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:0;stroke-opacity:0.6;paint-order:stroke fill markers"
+       aria-label="g"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       d="m 62.449734,54.966128 v 15.804461 h -4.741339 v -6.728185 h -8.353786 v 6.728185 H 44.52296 l 0.0074,-13.450481 1.097443,-2.410941 z m -13.027391,2.325514 v 4.402671 h 8.173163 v -4.402671 z"
+       id="text2"
+       style="font-size:22.5778px;line-height:79.57%;font-family:'ROG Fonts';-inkscape-font-specification:'ROG Fonts';text-align:end;letter-spacing:0px;direction:rtl;text-anchor:end;stroke:#ff0000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:0;stroke-opacity:0.59999996;paint-order:stroke fill markers;fill:#f5deb3;fill-opacity:1"
+       aria-label="a"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <path
+       d="m 78.498687,68.445075 0.0412,2.325514 -15.416684,0 V 54.966128 h 4.71876 v 13.478947 z"
+       id="text3"
+       style="font-size:22.5778px;line-height:79.57%;font-family:'ROG Fonts';-inkscape-font-specification:'ROG Fonts';text-align:end;letter-spacing:0px;direction:rtl;text-anchor:end;fill:#f5deb3;fill-opacity:1;stroke:#ff0000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:0;stroke-opacity:0.6;paint-order:stroke fill markers"
+       aria-label="l"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       d="m 104.76956,62.958669 6.97654,7.81192 h -5.48641 l -4.22206,-4.76392 -4.222045,4.76392 h -5.44125 l 6.90881,-7.81192 -7.02169,-7.992542 h 5.46382 l 4.312355,4.876805 4.11938,-4.920788 2.62587,2.935025 z"
+       id="text4"
+       style="font-size:22.5778px;line-height:79.57%;font-family:'ROG Fonts';-inkscape-font-specification:'ROG Fonts';text-align:end;letter-spacing:0px;direction:rtl;text-anchor:end;fill:#f5deb3;fill-opacity:1;stroke:#ff0000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:0;stroke-opacity:0.6;paint-order:stroke fill markers"
+       aria-label="x"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       d="m 113.49288,70.770589 h 4.74133 v -7.45068 l 7.40552,-8.35378 h -5.46383 l -4.31236,4.8768 -4.31235,-4.8768 h -5.46383 l 7.40552,8.35378 z"
+       id="text5"
+       style="font-size:22.5778px;line-height:79.57%;font-family:'ROG Fonts';-inkscape-font-specification:'ROG Fonts';text-align:end;letter-spacing:0px;direction:rtl;text-anchor:end;stroke:#ff0000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:0;stroke-opacity:0.59999996;paint-order:stroke fill markers;fill:#f5deb3;fill-opacity:1"
+       aria-label="y" />
+    <path
+       d="m 91.587984,54.966128 v 15.804461 h -4.741339 v -6.728185 h -8.353786 l 0.0058,4.411388 h -4.831649 l -0.0058,-13.487664 z m -13.027391,2.325514 v 4.402671 h 8.173163 v -4.402671 z"
+       id="text6"
+       style="font-size:22.5778px;line-height:79.57%;font-family:'ROG Fonts';-inkscape-font-specification:'ROG Fonts';text-align:end;letter-spacing:0px;direction:rtl;text-anchor:end;fill:#f5deb3;fill-opacity:1;stroke:#ff0000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:0;stroke-opacity:0.6;paint-order:stroke fill markers"
+       aria-label="a"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+</svg>
